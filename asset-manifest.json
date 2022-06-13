@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/digixcards/static/css/main.15f04759.css",
-    "main.js": "/digixcards/static/js/main.d039376f.js",
+    "main.js": "/digixcards/static/js/main.f94ec1d6.js",
     "static/js/787.e883d27e.chunk.js": "/digixcards/static/js/787.e883d27e.chunk.js",
     "static/media/logo.svg": "/digixcards/static/media/logo.393df3f4cb4f91b7f8f821dd684dba53.svg",
     "index.html": "/digixcards/index.html",
     "main.15f04759.css.map": "/digixcards/static/css/main.15f04759.css.map",
-    "main.d039376f.js.map": "/digixcards/static/js/main.d039376f.js.map",
+    "main.f94ec1d6.js.map": "/digixcards/static/js/main.f94ec1d6.js.map",
     "787.e883d27e.chunk.js.map": "/digixcards/static/js/787.e883d27e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15f04759.css",
-    "static/js/main.d039376f.js"
+    "static/js/main.f94ec1d6.js"
   ]
 }
