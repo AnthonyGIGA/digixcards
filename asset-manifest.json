@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.15f04759.css",
-    "main.js": "/static/js/main.a10098ff.js",
-    "static/js/787.e883d27e.chunk.js": "/static/js/787.e883d27e.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.393df3f4cb4f91b7f8f821dd684dba53.svg",
-    "index.html": "/index.html",
-    "main.15f04759.css.map": "/static/css/main.15f04759.css.map",
-    "main.a10098ff.js.map": "/static/js/main.a10098ff.js.map",
-    "787.e883d27e.chunk.js.map": "/static/js/787.e883d27e.chunk.js.map"
+    "main.css": "/digixcards/static/css/main.15f04759.css",
+    "main.js": "/digixcards/static/js/main.31eb2ca1.js",
+    "static/js/787.e883d27e.chunk.js": "/digixcards/static/js/787.e883d27e.chunk.js",
+    "static/media/logo.svg": "/digixcards/static/media/logo.393df3f4cb4f91b7f8f821dd684dba53.svg",
+    "index.html": "/digixcards/index.html",
+    "main.15f04759.css.map": "/digixcards/static/css/main.15f04759.css.map",
+    "main.31eb2ca1.js.map": "/digixcards/static/js/main.31eb2ca1.js.map",
+    "787.e883d27e.chunk.js.map": "/digixcards/static/js/787.e883d27e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15f04759.css",
-    "static/js/main.a10098ff.js"
+    "static/js/main.31eb2ca1.js"
   ]
 }
